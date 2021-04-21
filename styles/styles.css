@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+.paragraph1 {
+	color: purple;
+	padding: 10px;
+	font-size: 124px;
+	text-transform: capitalize;
+}
+
+.paragraph2 {
+	color: royalblue;
+	padding: 50px;
+}
+
+img {
+	margin: 0 auto;
+	max-width: 100%;
+	background-color: purple;
+	border: 5px solid green;
+	border-radius: 9999px;
+}
+
+.header {
+	padding: 20px;
+	width: 100%;
+	background-color: lime;
+	margin-bottom: 20px;
+}
